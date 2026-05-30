@@ -1,97 +1,88 @@
-# KL(Waspdrey)
+# Hey! I'm Kelvin 👋
 
-## Software Engineer | Backend & Full-Stack Systems Developer
-
-I build production-grade software systems that solve real operational problems in healthcare, business, and logistics environments.
-
-My focus is backend architecture, scalable APIs, and transforming complex real-world workflows into reliable digital systems.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=800&height=100&lines=Backend+Engineer+%F0%9F%92%BB;Full-Stack+Systems+Developer+%F0%9F%94%A5;Building+Real-World+Software+%F0%9F%8C%90;Healthcare+%26+Business+Systems+%F0%9F%8F%A5" />
+</div>
 
 ---
 
-## ⚙️ Core Expertise
+## 🚀 About Me
 
-- Backend System Design & Architecture  
-- RESTful API Development  
-- Database Design & Optimization  
-- Full-Stack Web Applications  
-- Production System Deployment  
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
+</div>
 
----
+👨‍💻 **Software Engineer** focused on building real-world production systems  
 
-## 🧠 Tech Stack
+🏥 Built healthcare software used in real hospitals in Ghana  
 
-**Backend**
-- Python (Django, FastAPI)
-- PHP (Laravel)
+⚙️ Specializing in backend systems, APIs, and database architecture  
 
-**Frontend**
-- React
-- JavaScript
+🌐 Turning real operational workflows into scalable digital systems  
 
-**Databases**
-- PostgreSQL
-- MySQL
-
-**DevOps / Tools**
-- REST APIs
-- Railway
-- Git & GitHub
-- Basic cloud deployment
+🎯 **Mission:** Build software that actually works in the real world — not just demos
 
 ---
 
-## 🏗️ Featured Production Systems
+## 🛠️ Tech Stack
 
-### 🏥 PlusPoint Hospital Management System
-Lead Software Engineer
-
-A full hospital management system deployed in real healthcare environments in Ghana, including Mother and Child Hospital (Kasoa).
-
-- Built full system architecture from scratch
-- Designed hospital workflows (patients, billing, pharmacy, lab, admissions, surgery)
-- Deployed and maintained production system across multiple facilities
-- Worked directly with healthcare staff to align software with real operations
-
-⚠️ Private repository (confidential production system)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,javascript,django,react,tailwind,bootstrap,mysql,postgres,git,github,docker,linux,aws,vercel&theme=dark" />
+</p>
 
 ---
 
-### 🌐 E-Commerce Management Platform
-Full-Stack Developer
+## 🏗️ Featured Systems
 
-- Built backend services and APIs for e-commerce operations
-- Designed relational database structure for products, orders, and users
-- Implemented authentication and role-based access control
-- Deployed and maintained cloud-based system
-
-⚠️ Private repository (client/production system)
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🏥 PlusPoint HMS</h3>
+      <em>Hospital Management System</em>
+      <br><br>
+      Built a full hospital system used in real healthcare facilities in Ghana.
+      <br><br>
+      Patient management, billing, lab, pharmacy, admissions, surgery workflows.
+      <br><br>
+      Designed from architecture → deployment → production.
+    </td>
+    <td align="center" width="33%">
+      <h3>🌐 E-Commerce System</h3>
+      <em>Business Platform</em>
+      <br><br>
+      Backend APIs for orders, products, inventory, and admin operations.
+      <br><br>
+      Focused on clean architecture and scalable database design.
+    </td>
+    <td align="center" width="33%">
+      <h3>📍 Land Survey System</h3>
+      <em>Workflow Automation</em>
+      <br><br>
+      Built backend system for managing land survey and certification processes.
+      <br><br>
+      Centralized fragmented manual workflows into a structured system.
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📍 Land Survey & Certification System
-Backend Developer
+## 📊 What I Focus On
 
-- Developed backend APIs for land survey and certification tracking
-- Centralized document and project management system
-- Improved workflow visibility and data integrity
-
-⚠️ Private repository
-
----
-
-## 📌 What I’m Focused On Now
-
-- Advanced backend architecture (FastAPI + scalable APIs)
-- System design and distributed systems fundamentals
-- Building high-impact production software systems
+- Backend system architecture  
+- REST API design & scalability  
+- Real-world production deployments  
+- Translating business processes into software  
 
 ---
 
 ## 📫 Contact
 
-Email: laryeakelvin18@gmail.com  
-Location: Accra, Ghana  
+📧 laryeakelvin18@gmail.com  
+📍 Accra, Ghana  
 
 ---
 
-> “I don’t build projects for practice — I build systems for use.”
+<div align="center">
+  <em>"I don’t build tutorials. I build systems that run in the real world."</em>
+</div>
